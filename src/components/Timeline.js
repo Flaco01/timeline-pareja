@@ -63,7 +63,7 @@ import bgImage from "../assets/bg-image.gif";
 const eventsData = [
   {
     date: "28/12/2024",
-    title: "Nuestro Primer Día",
+    title: "Nuestro primera salida",
     description: "El día en que todo comenzó...",
     media: [
       { type: "image", src: imagen1 },
@@ -75,7 +75,7 @@ const eventsData = [
   {
     date: "30/12/2024",
     title: "Amy hermana Ani",
-    description: "¡Primer encuentro!",
+    description: "Cómo olvidarme del día en que le conocí a tu hermana y fuimos juntos a Quero",
     media: [
       { type: "image", src: image3 },
     ],
@@ -83,7 +83,7 @@ const eventsData = [
   {
     date: "01/01/2025",
     title: "Parque flores",
-    description: "¡Primera salida 2025!",
+    description: "Jamás olvidaré el día en el que te presenté a todos y nos nervios que sentía",
     media: [
       { type: "image", src: image4 },
       { type: "image", src: image5 },
@@ -92,8 +92,8 @@ const eventsData = [
   },
   {
     date: "03/01/2025",
-    title: "Salida Carro",
-    description: "¡Hot!",
+    title: "Shhhh",
+    description: "Como olvidar cuando tuvimos por primera vez un momento a solas 🔥",
     media: [
       { type: "image", src: image7 },
       { type: "video", src: video3 },
@@ -104,15 +104,15 @@ const eventsData = [
   {
     date: "06/01/2025",
     title: "Caporal",
-    description: "¡Fiestas!",
+    description: "Ese día quedará por siempre en mí, hasta ahora recuerdo lo hermosa que te veías bailando",
     media: [
       { type: "image", src: image8 },
     ],
   },
   {
     date: "07/01/2025",
-    title: "Salida U",
-    description: "¡Salchipapa!",
+    title: "Escapada de la u",
+    description: "Esa vez la recuerdo muy bien porque fue cuando conociste mi ambiente en la universidad",
     media: [
       { type: "image", src: image9 },
       { type: "video", src: video6 },
@@ -121,7 +121,7 @@ const eventsData = [
   {
     date: "08/01/2025",
     title: "👀",
-    description: "¡Cambio!",
+    description: "¿Ani con ropa de Mateo? ¿Mateo con ropa de Ani?",
     media: [
       { type: "image", src: image10 },
       { type: "video", src: video7 },
@@ -130,15 +130,15 @@ const eventsData = [
   {
     date: "13/01/2025",
     title: "Cambio de look",
-    description: "¡RS y nuevas tillas!",
+    description: "Fuimos a Red Skins y me buscaste ropa a tu gusto, tampoco olvidaré lo feliz que te veías con tus nuevas zapatillas",
     media: [
       { type: "image", src: image14 },      
     ],
   },
   {
     date: "15/01/2025",
-    title: "Finales",
-    description: "¡💋!",
+    title: "Besos",
+    description: "Este fue uno de mis días favoritos, me llenaste de besos 💋",
     media: [
       { type: "image", src: image11 },
       { type: "video", src: video10 },
@@ -150,8 +150,8 @@ const eventsData = [
   },
   {
     date: "16/01/2025",
-    title: "Chill",
-    description: "¡Que hermoso día, mi video favorito!",
+    title: "Estrenando el carro",
+    description: "Que hermoso día que fue, aquí está uno de mis videos favoritos",
     media: [
       { type: "image", src: image17 },
       { type: "video", src: video11 },               
@@ -161,7 +161,7 @@ const eventsData = [
   {
     date: "20/01/2025",
     title: "😉",
-    description: "¡Que lindo es estar juntos!",
+    description: "Que lindo es estar juntos, con o sin ropa",
     media: [
       { type: "image", src: image15 },
       { type: "video", src: video13 },
@@ -170,8 +170,8 @@ const eventsData = [
   },
   {
     date: "25/01/2025",
-    title: "Paseito",
-    description: "¡Patate!",
+    title: "Paseito fuera de la ciudad",
+    description: "Bienvenidos a PatateYork",
     media: [
       { type: "image", src: image29 },
       { type: "video", src: video14 },        
@@ -179,8 +179,8 @@ const eventsData = [
   },
   {
     date: "27/01/2025",
-    title: "Spelling bee",
-    description: "¡Fuimos a verle a la Ane!",
+    title: "Concurso de la Ane",
+    description: "Cómo olvidar cuando le fuimos a verle a la Ane en su concurso de inglés",
     media: [
       { type: "image", src: image19 },
       { type: "video", src: video16 },        
@@ -189,7 +189,7 @@ const eventsData = [
   {
     date: "29/01/2025",
     title: "Filmadora",
-    description: "¡Fotos y videos!",
+    description: "La influencer más linda",
     media: [
       { type: "image", src: image20 },
       { type: "image", src: image21 },
@@ -200,7 +200,7 @@ const eventsData = [
   {
     date: "31/01/2025",
     title: "Fiesta",
-    description: "¡Lov!",
+    description: "Nuestra primera vez en la discoteca",
     media: [
       { type: "image", src: image23 },      
       { type: "video", src: video18 },      
@@ -208,8 +208,8 @@ const eventsData = [
   },
   {
     date: "02/02/2025",
-    title: "Noche",
-    description: "¡Corte de cabello!",
+    title: "🌙",
+    description: "Fui cortadito el cabello a tu casa, me invitaste a pasar y vimos el álbum de tu familia",
     media: [
       { type: "image", src: image24 },      
       { type: "video", src: video19 },      
@@ -218,7 +218,7 @@ const eventsData = [
   {
     date: "04/02/2025",
     title: "Champiz",
-    description: "¡Noche con los muchachos!",
+    description: "Noche con los muchachos",
     media: [
       { type: "image", src: image25 },      
       { type: "video", src: video20 },
